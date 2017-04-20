@@ -1,0 +1,6 @@
+C:\Users\hamza\Documents\Visual Studio 2017\Projects\WCFLABWEB\bin\WCFLABWEB.dll.config
+C:\Users\hamza\Documents\Visual Studio 2017\Projects\WCFLABWEB\bin\WCFLABWEB.dll
+C:\Users\hamza\Documents\Visual Studio 2017\Projects\WCFLABWEB\bin\WCFLABWEB.pdb
+C:\Users\hamza\Documents\Visual Studio 2017\Projects\WCFLABWEB\obj\Debug\WCFLABWEB.csprojResolveAssemblyReference.cache
+C:\Users\hamza\Documents\Visual Studio 2017\Projects\WCFLABWEB\obj\Debug\WCFLABWEB.dll
+C:\Users\hamza\Documents\Visual Studio 2017\Projects\WCFLABWEB\obj\Debug\WCFLABWEB.pdb
